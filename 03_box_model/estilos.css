@@ -8,3 +8,13 @@
   width: 300px;
   margin-left: 50px;
 }
+
+p {
+  border: 2px solid red;
+  height: 40px;
+}
+
+span {
+  border: solid 2px blue;
+  height: 40px;
+}

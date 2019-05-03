@@ -1,0 +1,39 @@
+.header {
+  height: 50px;
+}
+
+.menu {
+  width: 200px;
+  height: 100%;
+  margin-left: 800px;
+}
+
+.main {
+  height: 500px;
+}
+
+.main-content {
+  width: 60%;
+  height: 400px;
+  margin: auto;
+  margin-top: 50px;
+  text-align: center;
+  padding-top: 90px;
+}
+
+.input {
+  display: block;
+  margin: 20px auto;
+  height: 40px;
+  width: 450px;
+  border-radius: 25px;
+  border: 1px solid #bebebe;
+}
+
+.btn {
+  height: 35px;
+  width: 150px;
+  background: rgb(240, 240, 240);
+  border: none;
+  border-radius: 3px;
+}
