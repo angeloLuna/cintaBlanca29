@@ -1,0 +1,38 @@
+h1 {
+  color: #439ec9;
+  background: rgba(0,0,0, 1);
+  font-size: 80px;
+  font-family: arial;
+  font-weight: 800;
+  text-align: center;
+}
+
+img {
+  width: 300px;
+}
+
+h2 {
+  font-size: 68px;
+  color: blue;
+  text-align: right;
+}
+
+.links {
+  font-size: 40px;
+}
+
+.twitter {
+  color: #439ec9;
+}
+
+.facebook {
+  color: #163672;
+}
+
+.github {
+  color: black;
+}
+
+#titulo {
+  border: 2px solid red;
+}

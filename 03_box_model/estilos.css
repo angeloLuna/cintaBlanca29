@@ -1,0 +1,10 @@
+.container {
+  border: 2px solid blue;
+}
+
+.title {
+  border: 2px solid red;
+  height: 200px;
+  width: 300px;
+  margin-left: 50px;
+}
