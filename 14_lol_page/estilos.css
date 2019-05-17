@@ -1,0 +1,68 @@
+@font-face {
+  font-family: 'macondoXD';
+  src: url('fonts/macondo.ttf');
+}
+
+.main {
+  height: 100vh;
+}
+
+.carousel-container {
+  height: 55%;
+  display: flex;
+  justify-content: center;
+  background-image: url('https://am-a.akamaihd.net/image?f=https%3A%2F%2Funiverse-meeps.leagueoflegends.com%2Fv1%2Fassets%2Fimages%2Ffactions%2Fbandle-city_splash.jpg&resize=2400:');
+  background-position-y: 63%;
+  background-size: cover;
+}
+
+.carousel-content {
+  height: 100%;
+  width: 77%;
+  overflow: hidden;
+}
+
+.brand {
+  height: 45%;
+  background-image: url('https://am-a.akamaihd.net/image?f=https%3A%2F%2Funiverse-meeps.leagueoflegends.com%2Fv1%2Fassets%2Fimages%2Ffactions%2Fshadow-isles_splash.jpg&resize=1800:');
+}
+
+.bar {
+  height: 200px;
+  background: #0f0f0f;
+  display: flex;
+  justify-content: center;
+}
+
+.box {
+  border-top: 3px solid #937341;
+  background: #16161a;
+  height: 260px;
+  width: 520px;
+  margin-top: -30px;
+  padding: 12px;
+  z-index: 2;
+}
+
+.box-line {
+  border: 3px solid #272729;
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: space-around;
+  color: #937341;
+}
+
+.text {
+  font-size: 2rem;
+  font-family: 'macondoXD'
+}
+
+.sub {
+  font-size: .8rem;
+}
+
+.custom-img-height {
+  height: 450px;
+}

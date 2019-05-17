@@ -1,0 +1,30 @@
+.custom-img-height {
+  height: 500px;
+}
+
+.card-content {
+  padding: 0 30px;
+  padding-bottom: 20px;
+}
+
+/* .card-content>.card:hover {
+  transform: scale(1.1);
+  transition: 1s;
+} */
+
+
+.card-rotate {
+  background: red;
+  transform: rotate(90deg)
+}
+
+.main {
+  padding: 40px 0;
+  background: rgb(202, 231, 250);
+}
+
+.title {
+  text-align: center;
+  margin-bottom: 20px;
+}
+
