@@ -1,0 +1,40 @@
+.form {
+  border: 2px solid;
+  padding: 30px;
+}
+
+.title {
+  text-align: center;
+}
+
+.img-container {
+  display: none;
+}
+
+.icon-img {
+  width: 300px;
+}
+
+.icon-icon {
+  font-size: 300px;
+  color: pink;
+}
+
+@media (min-width: 992px) {
+  .form {
+    width: 50%;
+  }
+  .title {
+    text-align: left;
+  }
+  .img-container {
+    width: 50%;
+    display: block;
+    overflow: hidden;
+  }
+
+  .form-img {
+    display: flex;
+  }
+
+}
